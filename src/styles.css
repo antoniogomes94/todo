@@ -8,10 +8,10 @@ body {
     font-weight: 300;
     text-align: center;
     background: #3023ae;
-    background: -moz-linear-gradient(60deg, #3023ae 0%, #c86dd7 100%);
-    background: -webkit-linear-gradient(60deg, #3023ae 0%, #c86dd7 100%);
-    background: linear-gradient(60deg, #3023ae 0%, #c86dd7 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3023ae', endColorstr='#c86dd7', GradientType=1);
+    background: -moz-linear-gradient(60deg, #833ab4 0%, #fd1d1d 100%);
+    background: -webkit-linear-gradient(60deg, #833ab4 0%, #fd1d1d 100%);
+    background: linear-gradient(60deg, #833ab4 0%, #fd1d1d 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#833ab4', endColorstr='#fd1d1d', GradientType=1);
   }
   
   button {
